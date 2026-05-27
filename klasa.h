@@ -6,3 +6,8 @@ public:
   void bar();
   void third();
 };
+
+
+
+class Owner {
+};
