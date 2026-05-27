@@ -3,4 +3,5 @@
 class Test {
 public:
   void foo();
+  void bar();
 };
